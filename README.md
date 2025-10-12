@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DanishPatwekar
 - 👀 I’m interested in Development
-- 🌱 I’m currently java full stack development
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently java full stack development.
+- 💞️ I’m looking to collaborate as java full stack developer.
 - 📫 How to reach me:- danishpatwekar24@gmail.com
 
 <!---
