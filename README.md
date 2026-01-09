@@ -2,6 +2,6 @@
 - 👀 I’m interested in Database System.
 - 💞️ I’m looking to collaborate as PL/SQL Developer/ Software Engineer.
 - 📫 How to reach me:- danishpatwekar24@gmail.com
-- Resume:- 
+- Resume:- https://github.com/DanishPatwekar/MyPortfolio/blob/main/public/Resume_Danish_Patwekar.pdf
 
 
